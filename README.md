@@ -22,3 +22,5 @@ I used to use this encryption method in my mobile game Sacred Guardians, to prot
 now there are additional steps that we can take to secure the data even further by default the data should be in HEX format instead of readable string so we would convert the
 string to HEX so instead of seeing data over packet sniffer looking like "hello my name is jason" it would look like "68656c6c6f206d79206e616d65206973206a61736f6e" it's unreadable
 to the average user, but to a hacker they would know the encoding to switch it to readable string then find the key to decrypt the data.
+
+![Screenshot](https://github.com/jasnnh/DataEncryption/blob/main/index.php)
